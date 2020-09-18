@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 ﻿using Microsoft.EntityFrameworkCore;
+=======
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using WishList.Models;
+>>>>>>> Stashed changes
 
 namespace WishList.Data
 {
